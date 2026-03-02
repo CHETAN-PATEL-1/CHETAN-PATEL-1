@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Chetan 👋
 
-<!--
-**CHETAN-PATEL-1/CHETAN-PATEL-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning Data Structures & Algorithms (C++)  
+🌱 Currently learning Java & DBMS  
+🚀 Goal: Software Developer  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Basic Java
+- DBMS (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- DSA Practice
+- Problem Solving
