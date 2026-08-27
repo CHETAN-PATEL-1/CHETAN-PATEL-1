@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer 👨‍💻<br>Learning Data Structures & Algorithms step by step.<br>Turning logic into code and improving every day.<br>Java | C++ | Problem Solving
+Aspiring Software Developer 👨‍💻<br>Learning Data Structures & Algorithms step by step.<br>Turning logic into code and improving every day.<br>Java | C++ | Problem Solving.
 
 
 ## 🌐 Socials:
